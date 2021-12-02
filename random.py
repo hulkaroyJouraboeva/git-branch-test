@@ -5,3 +5,5 @@ def hello():
 
 
 hello()
+
+console.log("It is better")
