@@ -1,2 +1,2 @@
-console.log("HI!");
+console.log("Atlas Shrugged");
 console.log("Bye");
